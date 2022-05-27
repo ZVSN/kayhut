@@ -1,0 +1,131 @@
+[  
+    {  
+		"type":"Person",
+        "name":"John David",
+        "city":"Berlin",
+		"age":55
+    },
+    {  
+		"type":"Worker",
+        "name":"Mark Zuckerberg",
+        "city":"New York",
+		"age":34,
+        "language":[  
+            "Hebrew",
+            "English",
+			"Russian",
+			"Dutch"
+        ],
+        "job":"Engineer"
+    },
+	{  
+		"type":"Student",
+        "name":"Haim Atya",
+        "city":"Oslo",
+		"age":39,
+        "courses":[  
+            "Math",
+            "Civil Engineering Design",
+			"Biochemical Engineering"
+        ],
+		"grade":89
+    },
+	{  
+		"type":"Person",
+        "name":"Dudi Frid",
+        "city":"Paris",
+		"age":50
+    },
+    {  
+		"type":"Worker",
+        "name":"Beni Ohayun",
+        "city":"London",
+		"age":38,
+        "language":[  
+            "Hebrow",
+            "English",
+			"Spanish",
+			"Croatian"
+        ],
+        "job":"Doctor"
+    },
+	{  
+		"type":"Student",
+        "name":"Markus Alberg",
+        "city":"Tel Aviv",
+		"age":22,
+        "courses":[  
+            "Math",
+            "Medical Physiology",
+			"Medical Neuroscience",
+			"Human Behavior",
+			"Biology of Cells and Tissues"
+        ],
+		"grade":92
+    },
+	{  
+		"type":"Person",
+        "name":"Avraham David",
+        "city":"Ashkelon",
+		"age":43
+    },
+    {  
+		"type":"Worker",
+        "name":"Benyamin Alon",
+        "city":"Eilat",
+		"age":65,
+        "language":[  
+            "Arabic",
+            "English",
+			"Italian",
+			"German",
+			"Garifuna"
+        ],
+        "job":"Banking"
+    },
+	{  
+		"type":"Student",
+        "name":"Haim Atya",
+        "city":"Berlin",
+		"age":47,
+        "courses":[  
+            "Financial Services",
+            "Industry Transformation and Regulation",
+			"Biochemical Engineering"
+        ],
+		"grade":72
+    },
+	{  
+		"type":"Person",
+        "name":"Gabi Frid",
+        "city":"Boston",
+		"age":14
+    },
+    {  
+		"type":"Worker",
+        "name":"Beni David",
+        "city":"London",
+		"age":38,
+        "language":[  
+            "Hebrow",
+            "English",
+			"Aymara",
+			"Serbian"
+        ],
+        "job":"Public Relations"
+    },
+	{  
+		"type":"Student",
+        "name":"Rami Alon",
+        "city":"Haifa",
+		"age":27,
+        "courses":[  
+            "Medical Genetics",
+            "Academic Colleges",
+			"Medical Neuroscience",
+			"Human Behavior",
+			"Fundamentals of Immunology"
+        ],
+		"grade":59
+    }
+]
